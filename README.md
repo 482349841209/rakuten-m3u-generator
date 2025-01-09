@@ -1,13 +1,11 @@
 Televizo:
 https://televizo.net
 
-TiviMate
-
 M3U:
-https://bit.ly/nnmmb
+https://bit.ly/nppi
 
 EPG:
-https://bit.ly/nnmmbb
+https://bit.ly/epgnpi
 
 MO:
-https://bit.ly/nnmmii
+https://bit.ly/monpi
