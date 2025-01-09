@@ -1,36 +1,13 @@
-# Rakuten m3u Generator
+Televizo:
+https://televizo.net
 
-## List
-[Generated list (italian only)](output/rakuten.m3u)
+TiviMate
 
-## Pipeline status
-[![GitHub Actions Demo](https://github.com/pandvan/rakuten-m3u-generator/actions/workflows/pipeline.yml/badge.svg)](https://github.com/pandvan/rakuten-m3u-generator/actions/workflows/pipeline.yml)
+M3U:
+https://bit.ly/nnmmb
 
-## Settings
-You can configure the Rakuten country by creating a `.env` file in the project root directory.
-```shell
-cp .env.example .env
-<modify .env with your editor>
-```
+EPG:
+https://bit.ly/nnmmbb
 
-```
-.env
-----
-
-CLASSIFICATION=it
-```
-
-Set the ID of your country.
-Supported countries are:
-- Switzerland: `ch`
-- Germany: `de`
-- France: `fr`
-- Italy: `it`
-- Netherlands: `nl`
-- Norway: `no`
-- Poland: `pl`
-- Romania: `ro`
-- Sweden: `se`
-- United Kingdom: `uk`
-
-_ATTENTION: Rakuten APIs are geo-blocked_
+MO:
+https://bit.ly/nnmmii
