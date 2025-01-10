@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno=811 tvg-id="top-movies-rakuten-tv" tvg-name="Top Movies - Rakuten TV" group-title="movies",Top Movies - Rakuten TV
+#EXTINF:-1 tvg-chno=1 tvg-id="top-movies-rakuten-tv" tvg-name="Top Movies - Rakuten TV" group-title="movies",Top Movies - Rakuten TV
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+#EXTINF:-1 tvg-chno=2 tvg-id="action-rakuten-tv" tvg-name="Action - Rakuten TV" group-title="movies",Action - Rakuten TV
+https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:-1 tvg-chno=3 tvg-id="comedy-rakuten-tv" tvg-name="Comedy - Rakuten TV" group-title="movies",Comedy - Rakuten TV
+https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+#EXTINF:-1 tvg-chno=4 tvg-id="drama-rakuten-tv" tvg-name="Drama - Rakuten TV" group-title="movies",Drama - Rakuten TV
+https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+#EXTINF:-1 tvg-chno=5 tvg-id="romance-rakuten-tv" tvg-name="Romance - Rakuten TV" group-title="movies",Romance - Rakuten TV
+https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
+#EXTINF:-1 tvg-chno=6 tvg-id="family-rakuten-tv" tvg-name="Family - Rakuten TV" group-title="movies",Family - Rakuten TV
+https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
