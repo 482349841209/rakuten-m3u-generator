@@ -1,4 +1,128 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno=0 tvg-id="top-movies-rakuten-tv" tvg-name="Top Movies - Rakuten TV" group-title="movies",Top Movies - Rakuten TV
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+#EXTINF:-1 tvg-chno=1 tvg-id="action-rakuten-tv" tvg-name="Action Movies - Rakuten TV" group-title="movies",Action Movies - Rakuten TV
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:-1 tvg-chno=2 tvg-id="comedy-rakuten-tv" tvg-name="Comedy Movies - Rakuten TV" group-title="movies",Comedy Movies - Rakuten TV
+https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+#EXTINF:-1 tvg-chno=3 tvg-id="drama-rakuten-tv" tvg-name="Drama Movies - Rakuten TV" group-title="movies",Drama Movies - Rakuten TV
+https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+#EXTINF:-1 tvg-chno=4 tvg-id="romance-rakuten-tv" tvg-name="Romance Movies - Rakuten TV" group-title="movies",Romance Movies - Rakuten TV
+https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
+#EXTINF:-1 tvg-chno=5 tvg-id="sci-fi-uk-rakuten-tv" tvg-name="Sci-Fi - Rakuten TV" group-title="movies",Sci-Fi - Rakuten TV
+https://e1c61ff393ae4a4d93f1f12e3fdae43d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_Local/playlist.m3u8
+#EXTINF:-1 tvg-chno=6 tvg-id="thriller-uk-rakuten-tv" tvg-name="Thrillers - Rakuten TV" group-title="movies",Thrillers - Rakuten TV
+https://002933288fed459bbb7fe5e82562c3e2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_RakutenThriller/playlist.m3u8
+#EXTINF:-1 tvg-chno=34 tvg-id="mytime-movie-network" tvg-name="MyTime Movie Network" group-title="movies",MyTime Movie Network
+https://appletree-mytimeuk-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mytime-uk-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-chno=35 tvg-id="filmzie" tvg-name="Filmzie" group-title="movies",Filmzie
+https://3bd25beecec04b169f33659a7739c10b.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Filmzie/playlist.m3u8
+#EXTINF:-1 tvg-chno=37 tvg-id="filmrise-free-movies" tvg-name="FilmRise Free Movies" group-title="movies",FilmRise Free Movies
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-chno=44 tvg-id="lone-star-new" tvg-name="Lone Star" group-title="movies",Lone Star
+https://6b88cde9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0xvbmVTdGFyX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-chno=55 tvg-id="bjg-tjme" tvg-name="Bigtime" group-title="movies",Bigtime
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/953ec5ab-c54c-11ec-967f-401ac48a6867/0/master.m3u8
+#EXTINF:-1 tvg-chno=65 tvg-id="grjngo-en" tvg-name="Grjngo - Western Films" group-title="movies",Grjngo - Western Films
+https://66f81a14eebd497482b26d30b7a5fe07.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-gb_GrjngoWesternMovies/playlist.m3u8
+#EXTINF:-1 tvg-chno=68 tvg-id="popflix" tvg-name="Popflix" group-title="movies",Popflix
+https://75bced9559e343058577aeae94f36a8c.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-gb_Popflix/playlist.m3u8
+#EXTINF:-1 tvg-chno=74 tvg-id="new-kmovies" tvg-name="New KMovies" group-title="movies",New KMovies
+https://ec3b4b7e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X05FV0tNT1ZJRVNfSExT/playlist.m3u8
+#EXTINF:-1 tvg-chno=75 tvg-id="romcom-k-drama" tvg-name="RomCom K-Drama" group-title="movies",RomCom K-Drama
+https://7488d45c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JvbUNvbUtEcmFtYV9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-chno=108 tvg-id="baywatch" tvg-name="Baywatch" group-title="tv_shows",Baywatch
+https://amg00145-amg00145c2-rakuten-us-5323.playouts.now.amagi.tv/playlist/amg00145-fremantlemediafast-baywatch-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-chno=109 tvg-id="crime-beat-tv" tvg-name="Crime Beat TV" group-title="tv_shows",Crime Beat TV
+https://8e6c868c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lQmVhdF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-chno=112 tvg-id="andromeda-en" tvg-name="Andromeda" group-title="tv_shows",Andromeda
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-chno=113 tvg-id="filmrise-free-series" tvg-name="FilmRise Free Series" group-title="tv_shows",FilmRise Free Series
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-chno=128 tvg-id="filmrise-highway-to-heaven-en" tvg-name="Highway to Heaven" group-title="tv_shows",Highway to Heaven
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-chno=131 tvg-id="rakuten-viki-new" tvg-name="Rakuten VIKI" group-title="tv_shows",Rakuten VIKI
+https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
+#EXTINF:-1 tvg-chno=136 tvg-id="21-jump-street" tvg-name="21 Jump Street" group-title="tv_shows",21 Jump Street
+https://cb562753.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1XzIxSnVtcFN0cmVldF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-chno=140 tvg-id="filmrise-beyblade" tvg-name="Beyblade" group-title="tv_shows",Beyblade
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-chno=142 tvg-id="yu-gi-oh-en" tvg-name="Yu-Gi-Oh!" group-title="tv_shows",Yu-Gi-Oh!
+https://682d879062c641edb983524726fcadc6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_YuGiOh/playlist.m3u8
+#EXTINF:-1 tvg-chno=143 tvg-id="mr-bean-en" tvg-name="Mr. Bean" group-title="tv_shows",Mr. Bean
+https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-chno=144 tvg-id="mr-bean-live-action" tvg-name="Mr. Bean - Live Action" group-title="tv_shows",Mr. Bean - Live Action
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-chno=196 tvg-id="the-pet-collective-new" tvg-name="The Pet Collective" group-title="entertainment",The Pet Collective
+https://81d1c38525014f39a1705b01e04d91c2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_ThePetCollective-1/playlist.m3u8
+#EXTINF:-1 tvg-chno=197 tvg-id="people-are-awesome-new" tvg-name="People Are Awesome" group-title="entertainment",People Are Awesome
+https://965a56fdfe3c40cd9b73c49a0cde620b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_PeopleAreAwesome-1/playlist.m3u8
+#EXTINF:-1 tvg-chno=198 tvg-id="infast" tvg-name="INFAST" group-title="entertainment",INFAST
+https://lifestyle-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lifestylehd/CDN/playlist.m3u8
+#EXTINF:-1 tvg-chno=199 tvg-id="afv-family" tvg-name="AFV Family" group-title="entertainment",AFV Family
+https://ec4a5bcc9d664b48985de6095931aaa7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_AmericasFunniestHomeVideos/playlist.m3u8
+#EXTINF:-1 tvg-chno=201 tvg-id="ninja-warrior" tvg-name="Ninja Warrior" group-title="entertainment",Ninja Warrior
+https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-ninjawarrior-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-chno=204 tvg-id="just-for-laughs-gags-uk" tvg-name="Just For Laughs Gags" group-title="entertainment",Just For Laughs Gags
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-chno=206 tvg-id="revry" tvg-name="Revry" group-title="entertainment",Revry
+https://03e7e5beea1d42fea576037d67f531eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Revry/playlist.m3u8
+#EXTINF:-1 tvg-chno=209 tvg-id="jukin-fail-army-new" tvg-name="Fail Army" group-title="entertainment",Fail Army
+https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-chno=214 tvg-id="ted-en" tvg-name="TED" group-title="entertainment",TED
+https://841c1d34b2db42bf830a90789bb0464b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_TEDTV/playlist.m3u8
+#EXTINF:-1 tvg-chno=215 tvg-id="shades-of-black" tvg-name="Shades of Black" group-title="entertainment",Shades of Black
+https://shadesofblackrakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-fusemedia-shadesofblack-rakutenA/CDN/playlist.m3u8
+#EXTINF:-1 tvg-chno=216 tvg-id="great-british-menu" tvg-name="Great British Menu" group-title="entertainment",Great British Menu
+https://1170baa82b1343c29dbf352e2d1a61e5.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-gb_GreatBritishMenu/playlist.m3u8
+#EXTINF:-1 tvg-chno=217 tvg-id="eggheads" tvg-name="Eggheads" group-title="entertainment",Eggheads
+https://amg00654-itv-amg00654c28-rakuten-uk-5302.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-egghead-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-chno=218 tvg-id="mech-plus" tvg-name="Robot Wars by Mech+" group-title="entertainment",Robot Wars by Mech+
+https://197bf837c9494acf8a8f1185401b8059.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-gb_MechPlus/playlist.m3u8
+#EXTINF:-1 tvg-chno=219 tvg-id="love-pets" tvg-name="Love Pets" group-title="entertainment",Love Pets
+https://blueskyent-lovepetsemea-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-blueskyent-lovepetsemea-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-chno=220 tvg-id="lol-network" tvg-name="LOL! Network" group-title="entertainment",LOL! Network
+https://22178255534f41979a2f5e2178bf46a8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_LOLNetwork/playlist.m3u8
+#EXTINF:-1 tvg-chno=222 tvg-id="just-for-laughs-tv-en" tvg-name="Just for Laughs TV" group-title="entertainment",Just for Laughs TV
+https://ba23ead555f04815b79e546281801fb0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_JustForLaughsTV/playlist.m3u8
+#EXTINF:-1 tvg-chno=224 tvg-id="the-chat-show-channel" tvg-name="The Chat Show Channel" group-title="entertainment",The Chat Show Channel
+https://amg00426-lds-amg00426c11-rakuten-uk-3888.playouts.now.amagi.tv/playlist/amg00426-littledotstudiofast-thechatshowcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-chno=225 tvg-id="filmrise-hot-ones" tvg-name="Hot Ones" group-title="entertainment",Hot Ones
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-chno=226 tvg-id="zee-world" tvg-name="Zee World" group-title="entertainment",Zee World
+https://89ec2d15e090480bb419d940b8793b9c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ZeeWorld-1/playlist.m3u8
+#EXTINF:-1 tvg-chno=230 tvg-id="desiplay-tv" tvg-name="DesiPlay TV" group-title="entertainment",DesiPlay TV
+https://amg00857-amg00857c1-rakuten-us-4656.playouts.now.amagi.tv/playlist/amg00857-viacom18mediaprivatelimitedfast-desiplaytv-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-chno=233 tvg-id="pointless" tvg-name="Pointless" group-title="entertainment",Pointless
+https://amg00627-amg00627c34-rakuten-uk-4005.playouts.now.amagi.tv/playlist/amg00627-banijayfast-pointless-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-chno=235 tvg-id="mythbusters" tvg-name="Mythbusters" group-title="entertainment",Mythbusters
+https://amg00627-amg00627c14-rakuten-uk-4802.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-chno=239 tvg-id="hotel-inspector" tvg-name="Hotel Inspector" group-title="entertainment",Hotel Inspector
+https://amg00654-itv-amg00654c4-rakuten-uk-5263.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hotelinspector-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-chno=240 tvg-id="great-real" tvg-name="GREAT! real" group-title="entertainment",GREAT! real
+https://amg01753-amg01753c5-rakuten-uk-5500.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatreal-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-chno=326 tvg-id="zee-sports" tvg-name="Zee Sports" group-title="sports",Zee Sports
+https://amg17931-zee-amg17931c7-rakuten-gb-6369.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeesports-rakutengb/playlist.m3u8
+#EXTINF:-1 tvg-chno=327 tvg-id="top-barca-eng" tvg-name="TOP Barça" group-title="sports",TOP Barça
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-chno=328 tvg-id="fifa-plus-uk-live-new" tvg-name="FIFA+" group-title="sports",FIFA+
+https://49f2b747.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-chno=331 tvg-id="dazn-women-s-football" tvg-name="DAZN Women's Football" group-title="sports",DAZN Women's Football
+https://dazn-daznwomensfootball-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-daznwomensfootball-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-chno=336 tvg-id="fuel-tv-new" tvg-name="FUEL TV" group-title="sports",FUEL TV
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+#EXTINF:-1 tvg-chno=337 tvg-id="tennis-channel-en" tvg-name="Tennis Channel" group-title="sports",Tennis Channel
+https://tennischannelintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-tennischannel-international-uk/CDN/master.m3u8
+#EXTINF:-1 tvg-chno=339 tvg-id="hard-knocks-fighting-championship" tvg-name="Hard Knocks Fighting Championship" group-title="sports",Hard Knocks Fighting Championship
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-chno=340 tvg-id="impact-wrestling" tvg-name="TNA Wrestling Channel" group-title="sports",TNA Wrestling Channel
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-chno=341 tvg-id="glory-kickboxing" tvg-name="GLORY Kickboxing" group-title="sports",GLORY Kickboxing
+https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-chno=342 tvg-id="world-poker-tour" tvg-name="World Poker Tour" group-title="sports",World Poker Tour
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8
+#EXTINF:-1 tvg-chno=346 tvg-id="dazn-combat" tvg-name="DAZN Combat" group-title="sports",DAZN Combat
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-chno=356 tvg-id="motorracing-english-feed" tvg-name="Motor Racing" group-title="sports",Motor Racing
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/69fae76b-c5fe-11ec-967f-401ac48a6867/0/master.m3u8
 #EXTINF:-1 tvg-chno=360 tvg-id="pfl-mma" tvg-name="PFL MMA" group-title="sports",PFL MMA
