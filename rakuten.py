@@ -92,7 +92,7 @@ class Api:
             "locale": cls.language,
             "market_code": cls.language,
             "page": 1,
-            "per_page": 100,
+            "per_page": 200,
         }
 
         response = requests.get(
