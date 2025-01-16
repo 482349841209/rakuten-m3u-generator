@@ -6,3 +6,6 @@ https://bit.ly/nppi
 
 EPG:
 https://bit.ly/epgnpi
+
+Tubi:
+https://nocords.xyz
