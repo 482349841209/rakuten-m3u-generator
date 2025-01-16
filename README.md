@@ -7,5 +7,5 @@ https://bit.ly/nppi
 EPG:
 https://bit.ly/epgnpi
 
-Tubi:
+Pluto:
 https://nocords.xyz
