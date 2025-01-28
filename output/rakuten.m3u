@@ -235,6 +235,8 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://a7d6af1c184e465db4f39316a5181c1f.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_COPS/playlist.m3u8
 #EXTINF:-1 tvg-chno=688 tvg-id="jail" tvg-name="Jail" group-title="reality",Jail
 https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8
+#EXTINF:-1 tvg-chno=691 tvg-id="cheaters" tvg-name="Cheaters" group-title="reality",Cheaters
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
 #EXTINF:-1 tvg-chno=694 tvg-id="deal-masters" tvg-name="Deal Masters" group-title="reality",Deal Masters
 https://amg00841-amg00841c8-rakuten-uk-2819.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-dealmastersrakuten-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-chno=695 tvg-id="hoarders" tvg-name="Hoarders" group-title="reality",Hoarders
@@ -304,7 +306,7 @@ https://aenetworks-worldwartv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-aene
 #EXTINF:-1 tvg-chno=837 tvg-id="curiosity-now-en" tvg-name="Curiosity Now" group-title="docs_&_factual",Curiosity Now
 https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-chno=877 tvg-id="euronews-live-eng" tvg-name="Euronews LIVE" group-title="news",Euronews LIVE
-https://euronews-live-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6503/bitok/eyJzdGlkIjoiNTc0YjY2ODQtZjg0My00YmNmLWJjNTktODgzMzVlZjYyZDUzIiwibWt0IjoidWsiLCJjaCI6NjUwMywicHRmIjo1fQ%3D%3D/26031/euronews-en.m3u8
+https://euronews-live-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6503/bitok/eyJzdGlkIjoiMzEwNTcyYmUtMjNlZS00YjEwLTgwMzQtMWE1ZjgzNmIzMmJkIiwibWt0IjoidWsiLCJjaCI6NjUwMywicHRmIjo1fQ%3D%3D/26031/euronews-en.m3u8
 #EXTINF:-1 tvg-chno=881 tvg-id="reuters-new" tvg-name="Reuters" group-title="news",Reuters
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-chno=885 tvg-id="revry-news" tvg-name="Revry News" group-title="news",Revry News
