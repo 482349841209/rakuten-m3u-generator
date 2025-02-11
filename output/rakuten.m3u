@@ -103,8 +103,6 @@ https://amg00627-amg00627c14-rakuten-uk-4802.playouts.now.amagi.tv/playlist/amg0
 https://amg00654-itv-amg00654c4-rakuten-uk-5263.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hotelinspector-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-chno=240 tvg-id="great-real" tvg-name="GREAT! real" group-title="entertainment",GREAT! real
 https://amg01753-amg01753c5-rakuten-uk-5500.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatreal-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-chno=326 tvg-id="zee-sports" tvg-name="Zee Sports" group-title="sports",Zee Sports
-https://amg17931-zee-amg17931c7-rakuten-gb-6369.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeesports-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-chno=327 tvg-id="top-barca-eng" tvg-name="TOP Barça" group-title="sports",TOP Barça
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-chno=328 tvg-id="fifa-plus-uk-live-new" tvg-name="FIFA+" group-title="sports",FIFA+
@@ -243,7 +241,7 @@ https://amg00627-amg00627c8-rakuten-uk-4801.playouts.now.amagi.tv/playlist/amg00
 https://deal-or-no-deal-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-deal-or-no-deal-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 tvg-chno=704 tvg-id="project-runway" tvg-name="Project Runway" group-title="reality",Project Runway
 https://amg02189-amg02189c1-rakuten-us-5453.playouts.now.amagi.tv/playlist/amg02189-spyglass-projectrunway-rakutenus/playlist.m3u8
-#EXTINF:-1 tvg-chno=754 tvg-id="true-lives" tvg-name="Autopsy" group-title="crime_&_mystery",Autopsy
+#EXTINF:-1 tvg-chno=754 tvg-id="true-lives" tvg-name="True Lives" group-title="crime_&_mystery",True Lives
 https://amg00654-itv-amg00654c7-rakuten-uk-1282.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-truelives-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-chno=755 tvg-id="real-crime-new" tvg-name="Real Crime" group-title="crime_&_mystery",Real Crime
 https://lds-realcrimebeta-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lds-realcrime2-rakuten/CDN/master.m3u8
@@ -298,7 +296,7 @@ https://aenetworks-worldwartv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-aene
 #EXTINF:-1 tvg-chno=837 tvg-id="curiosity-now-en" tvg-name="Curiosity Now" group-title="docs_&_factual",Curiosity Now
 https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-chno=877 tvg-id="euronews-live-eng" tvg-name="Euronews LIVE" group-title="news",Euronews LIVE
-https://euronews-live-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6503/bitok/eyJzdGlkIjoiZmQ2NjFhNDEtODJjZC00ZTg5LWJmYjItZjdlZDc0ODExNGNjIiwibWt0IjoidWsiLCJjaCI6NjUwMywicHRmIjo1fQ%3D%3D/26031/euronews-en.m3u8
+https://euronews-live-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6503/bitok/eyJzdGlkIjoiNWU3YWJmZWMtOWIyOS00OWUwLWEyOTMtMDc5ZTZmNGVjNmEzIiwibWt0IjoidWsiLCJjaCI6NjUwMywicHRmIjo1fQ%3D%3D/26031/euronews-en.m3u8
 #EXTINF:-1 tvg-chno=880 tvg-id="ntd-tv" tvg-name="NTD TV" group-title="news",NTD TV
 https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-chno=881 tvg-id="reuters-new" tvg-name="Reuters" group-title="news",Reuters
