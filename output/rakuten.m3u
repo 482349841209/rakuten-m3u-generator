@@ -201,6 +201,8 @@ https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/pl
 https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
 #EXTINF:-1 tvg-chno=621 tvg-id="pop-kids" tvg-name="POP" group-title="kids",POP
 https://narrative-popkids-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-narrative-popkids-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-chno=626 tvg-id="cartoon-classics" tvg-name="Cartoon Classics" group-title="kids",Cartoon Classics
+https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/.m3u8
 #EXTINF:-1 tvg-chno=674 tvg-id="reality-rakuten-tv" tvg-name="Reality - Rakuten TV" group-title="reality",Reality - Rakuten TV
 https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8
 #EXTINF:-1 tvg-chno=675 tvg-id="filmrise-world-s-wildest-police-videos" tvg-name="World's Wildest Police Videos" group-title="reality",World's Wildest Police Videos
@@ -292,7 +294,7 @@ https://aenetworks-worldwartv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-aene
 #EXTINF:-1 tvg-chno=837 tvg-id="curiosity-now-en" tvg-name="Curiosity Now" group-title="docs_&_factual",Curiosity Now
 https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-chno=877 tvg-id="euronews-live-eng" tvg-name="Euronews LIVE" group-title="news",Euronews LIVE
-https://euronews-live-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6503/bitok/eyJzdGlkIjoiMmNkYTBjYWItNTRiYi00NzBhLWE1MGQtOTQzNzlkYjI4MmE0IiwibWt0IjoidWsiLCJjaCI6NjUwMywicHRmIjo1fQ%3D%3D/26031/euronews-en.m3u8
+https://euronews-live-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6503/bitok/eyJzdGlkIjoiMmZiYzMyMzctZDRlZi00YjgwLThjOGYtMmYwMzczOTUwMzQyIiwibWt0IjoidWsiLCJjaCI6NjUwMywicHRmIjo1fQ%3D%3D/26031/euronews-en.m3u8
 #EXTINF:-1 tvg-chno=880 tvg-id="ntd-tv" tvg-name="NTD TV" group-title="news",NTD TV
 https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-chno=881 tvg-id="reuters-new" tvg-name="The Reuters 60" group-title="news",The Reuters 60
@@ -304,7 +306,7 @@ https://d7ec4f6950ed4c6d946e497bd44db7ef.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-chno=888 tvg-id="bloomberg-tv-new" tvg-name="Bloomberg Television" group-title="news",Bloomberg Television
 https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/playlist.m3u8
 #EXTINF:-1 tvg-chno=892 tvg-id="africanews-eng" tvg-name="Africanews" group-title="news",Africanews
-https://africanews-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiMTgzY2M4YTctNmEzNy00OTNkLTk2MjYtYTFlNzRjMDE5Yzc3IiwibWt0IjoidWsiLCJjaCI6NjU3NiwicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
+https://africanews-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiZjI4NGEyMmQtMmZlYy00Y2IzLWJhYWMtYzY3YzZhOGI4YTdhIiwibWt0IjoidWsiLCJjaCI6NjU3NiwicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
 #EXTINF:-1 tvg-chno=893 tvg-id="cgtn" tvg-name="CGTN" group-title="news",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-chno=894 tvg-id="newsworld" tvg-name="NewsWorld" group-title="news",NewsWorld
