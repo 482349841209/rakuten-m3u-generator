@@ -109,6 +109,8 @@ https://amg02333-pbs-amg02333c12-rakuten-dk-7007.playouts.now.amagi.tv/playlist/
 https://amg00654-itv-amg00654c4-rakuten-uk-5263.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hotelinspector-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-chno=240 tvg-id="great-real" tvg-name="GREAT! real" group-title="entertainment",GREAT! real
 https://amg01753-amg01753c5-rakuten-uk-5500.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatreal-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-chno=245 tvg-id="britasia-tv" tvg-name="BritAsia TV" group-title="entertainment",BritAsia TV
+https://9e2bea53.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0JyaXRBc2lhVFZfSExT/playlist.m3u8
 #EXTINF:-1 tvg-chno=251 tvg-id="cash-in-the-attic" tvg-name="Cash in The Attic" group-title="entertainment",Cash in The Attic
 https://90fd6af0a5d94a488ed1b0dcbb804f8d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_CashInTheAttic/playlist.m3u8
 #EXTINF:-1 tvg-chno=327 tvg-id="top-barca-eng" tvg-name="TOP Barça" group-title="sports",TOP Barça
@@ -279,6 +281,8 @@ https://7d963f6f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
 #EXTINF:-1 tvg-chno=777 tvg-id="i-survived" tvg-name="I Survived" group-title="crime_&_mystery",I Survived
 https://8e979536.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0lTdXJ2aXZlZF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-chno=783 tvg-id="evidence-of-evil" tvg-name="Evidence of Evil" group-title="crime_&_mystery",Evidence of Evil
+https://629d44a6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0V2aWRlbmNlb2ZFdmlsX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-chno=809 tvg-id="history-hunters" tvg-name="History Hunters" group-title="docs_&_factual",History Hunters
 https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-chno=812 tvg-id="history-hit" tvg-name="History Hit - Golden Cinema" group-title="docs_&_factual",History Hit - Golden Cinema
@@ -302,7 +306,7 @@ https://aenetworks-worldwartv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-aene
 #EXTINF:-1 tvg-chno=837 tvg-id="curiosity-now-en" tvg-name="Curiosity Now" group-title="docs_&_factual",Curiosity Now
 https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-chno=877 tvg-id="euronews-live-eng" tvg-name="Euronews LIVE" group-title="news",Euronews LIVE
-https://euronews-live-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6503/bitok/eyJzdGlkIjoiNDQ0NzY5OTctNTY4Yi00M2ViLWJjY2ItYWMwYjQxOGViYzQ2IiwibWt0IjoidWsiLCJjaCI6NjUwMywicHRmIjo1fQ%3D%3D/26031/euronews-en.m3u8
+https://euronews-live-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6503/bitok/eyJzdGlkIjoiZGMwZWIzYjItN2ViMi00MjE5LWJlY2QtZGEwMzlmZTVjMjUxIiwibWt0IjoidWsiLCJjaCI6NjUwMywicHRmIjo1fQ%3D%3D/26031/euronews-en.m3u8
 #EXTINF:-1 tvg-chno=880 tvg-id="ntd-tv" tvg-name="NTD TV" group-title="news",NTD TV
 https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-chno=881 tvg-id="reuters-new" tvg-name="The Reuters 60" group-title="news",The Reuters 60
@@ -314,7 +318,7 @@ https://d7ec4f6950ed4c6d946e497bd44db7ef.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-chno=888 tvg-id="bloomberg-tv-new" tvg-name="Bloomberg Television" group-title="news",Bloomberg Television
 https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/playlist.m3u8
 #EXTINF:-1 tvg-chno=892 tvg-id="africanews-eng" tvg-name="Africanews" group-title="news",Africanews
-https://africanews-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiMTcwNjU5YTUtZTJhNi00ODYwLWIzNWEtM2Y5Njk3NjZlMzJjIiwibWt0IjoidWsiLCJjaCI6NjU3NiwicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
+https://africanews-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiYjEzMWQ2YWEtMDM5Mi00NWMyLThjZGEtZGZhMzU0ZDZhNjNlIiwibWt0IjoidWsiLCJjaCI6NjU3NiwicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
 #EXTINF:-1 tvg-chno=893 tvg-id="cgtn" tvg-name="CGTN" group-title="news",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-chno=894 tvg-id="newsworld" tvg-name="NewsWorld" group-title="news",NewsWorld
