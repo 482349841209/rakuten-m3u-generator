@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno=0 tvg-id="top-movies-rakuten-tv" tvg-name="Top Movies - Rakuten TV" group-title="movies",Top Movies - Rakuten TV
-2288?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=15&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=uk&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=top-movies-rakuten-tv_uk&ads.rtv_content_id=5987&ads.rtv_content_language=eng&ads.rtv_language=eng&ads.rtvid=271858&ads.streaming_id=12e517c6-2ec8-412f-b528-33a69f543c78&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor
+2288?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=15&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=uk&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=top-movies-rakuten-tv_uk&ads.rtv_content_id=5987&ads.rtv_content_language=eng&ads.rtv_language=eng&ads.rtvid=271858&ads.streaming_id=d6f1dfe9-4f3f-4334-99f1-fa315152b09d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor
 #EXTINF:-1 tvg-chno=1 tvg-id="action-rakuten-tv" tvg-name="Action Movies - Rakuten TV" group-title="movies",Action Movies - Rakuten TV
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
 #EXTINF:-1 tvg-chno=2 tvg-id="comedy-rakuten-tv" tvg-name="Comedy Movies - Rakuten TV" group-title="movies",Comedy Movies - Rakuten TV
@@ -306,7 +306,7 @@ https://aenetworks-worldwartv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-aene
 #EXTINF:-1 tvg-chno=837 tvg-id="curiosity-now-en" tvg-name="Curiosity Now" group-title="docs_&_factual",Curiosity Now
 https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-chno=877 tvg-id="euronews-live-eng" tvg-name="Euronews LIVE" group-title="news",Euronews LIVE
-https://euronews-live-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6503/bitok/eyJzdGlkIjoiMmJiM2VkMWItZWZlMy00ZTM3LTk3NTEtNzdkMDQwM2RjNDJjIiwibWt0IjoidWsiLCJjaCI6NjUwMywicHRmIjo1fQ%3D%3D/26031/euronews-en.m3u8
+https://euronews-live-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6503/bitok/eyJzdGlkIjoiZDZhZjhkYjgtM2UwMy00ZTFjLTk0MjgtNWZmYzI1NDUzNDFlIiwibWt0IjoidWsiLCJjaCI6NjUwMywicHRmIjo1fQ%3D%3D/26031/euronews-en.m3u8
 #EXTINF:-1 tvg-chno=880 tvg-id="ntd-tv" tvg-name="NTD TV" group-title="news",NTD TV
 https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-chno=881 tvg-id="reuters-new" tvg-name="The Reuters 60" group-title="news",The Reuters 60
@@ -318,7 +318,7 @@ https://d7ec4f6950ed4c6d946e497bd44db7ef.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-chno=888 tvg-id="bloomberg-tv-new" tvg-name="Bloomberg Television" group-title="news",Bloomberg Television
 https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/playlist.m3u8
 #EXTINF:-1 tvg-chno=892 tvg-id="africanews-eng" tvg-name="Africanews" group-title="news",Africanews
-https://africanews-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiZWQ3MDVlYmEtNDg2YS00ZGUzLTk4NWMtNDBhOGM5MjdmMmE1IiwibWt0IjoidWsiLCJjaCI6NjU3NiwicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
+https://africanews-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNWQ4MTc0NWYtZmMxMy00YzNiLWEwODYtOGEyMGJjOTFhOGM1IiwibWt0IjoidWsiLCJjaCI6NjU3NiwicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
 #EXTINF:-1 tvg-chno=893 tvg-id="cgtn" tvg-name="CGTN" group-title="news",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-chno=894 tvg-id="newsworld" tvg-name="NewsWorld" group-title="news",NewsWorld
