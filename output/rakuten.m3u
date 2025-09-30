@@ -59,6 +59,10 @@ https://999dae3a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
 #EXTINF:-1 tvg-chno=154 tvg-id="demand-drama-dafc2d63-afe9-4ce0-89cf-3ed5bf698561" tvg-name="Demand Drama" group-title="tv_shows",Demand Drama
 https://amg01487-amg01487c3-amgplt0165.playout.now3.amagi.tv/playlist/amg01487-amg01487c3-amgplt0165/playlist.m3u8
+#EXTINF:-1 tvg-chno=155 tvg-id="heartland" tvg-name="Heartland" group-title="tv_shows",Heartland
+https://amg00353-amg00353c54-rakuten-gb-8880.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-heartlandenglish-rakutengb/playlist.m3u8
+#EXTINF:-1 tvg-chno=156 tvg-id="rookie-blue-eng" tvg-name="Rookie Blue" group-title="tv_shows",Rookie Blue
+https://amg00353-amg00353c46-rakuten-us-8849.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-rookieblueenglish-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-chno=157 tvg-id="filmrise-sanctuary" tvg-name="Sanctuary" group-title="tv_shows",Sanctuary
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
 #EXTINF:-1 tvg-chno=163 tvg-id="filmrise-death-valley-days" tvg-name="Death Valley Days" group-title="tv_shows",Death Valley Days
@@ -75,14 +79,14 @@ https://amg00276-amg00276c29-rakuten-gb-9302.playouts.now.amagi.tv/playlist/amg0
 https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-chno=209 tvg-id="jukin-fail-army-new" tvg-name="Fail Army" group-title="entertainment",Fail Army
 https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-chno=215 tvg-id="tipping-point" tvg-name="Tipping Point" group-title="entertainment",Tipping Point
+https://amg00627-amg00627c38-rakuten-gb-9515.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-tippingpoint-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-chno=216 tvg-id="great-british-menu" tvg-name="Great British Menu" group-title="entertainment",Great British Menu
 https://1170baa82b1343c29dbf352e2d1a61e5.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-gb_GreatBritishMenu/playlist.m3u8
 #EXTINF:-1 tvg-chno=217 tvg-id="eggheads" tvg-name="Eggheads" group-title="entertainment",Eggheads
 https://amg00654-itv-amg00654c28-rakuten-uk-5302.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-egghead-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-chno=218 tvg-id="mech-plus" tvg-name="Robot Wars by Mech+" group-title="entertainment",Robot Wars by Mech+
 https://197bf837c9494acf8a8f1185401b8059.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-gb_MechPlus/playlist.m3u8
-#EXTINF:-1 tvg-chno=220 tvg-id="lol-network" tvg-name="LOL! Network" group-title="entertainment",LOL! Network
-https://22178255534f41979a2f5e2178bf46a8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_LOLNetwork/playlist.m3u8
 #EXTINF:-1 tvg-chno=223 tvg-id="graham-norton-eng" tvg-name="Graham Norton" group-title="entertainment",Graham Norton
 https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-grahamnortonenglish-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-chno=224 tvg-id="the-chat-show-channel" tvg-name="The Chat Show Channel" group-title="entertainment",The Chat Show Channel
@@ -141,8 +145,6 @@ https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_dat
 https://25dee28f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0di0xX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-chno=365 tvg-id="racer-international" tvg-name="RACER International" group-title="sports",RACER International
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
-#EXTINF:-1 tvg-chno=366 tvg-id="nitro-circus" tvg-name="Nitro Circus" group-title="sports",Nitro Circus
-https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist/amg13231-actvefast-bike-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-chno=369 tvg-id="red-bull-tv-en-uk" tvg-name="Red Bull TV" group-title="sports",Red Bull TV
 https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVi0xX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-chno=370 tvg-id="motorvision-tv" tvg-name="MOTORVISION.TV" group-title="sports",MOTORVISION.TV
@@ -179,8 +181,6 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
 #EXTINF:-1 tvg-chno=544 tvg-id="qello-concerts-by-stingray" tvg-name="Qello Concerts by Stingray" group-title="music",Qello Concerts by Stingray
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-chno=545 tvg-id="deluxe-lounge-hd" tvg-name="Deluxe Lounge HD" group-title="music",Deluxe Lounge HD
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2299f30c-3582-11ec-9c7c-2cf753b8a203/0/master.m3u8
 #EXTINF:-1 tvg-chno=550 tvg-id="now-70s" tvg-name="NOW 70s" group-title="music",NOW 70s
 https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 tvg-chno=551 tvg-id="now-80s" tvg-name="NOW 80s" group-title="music",NOW 80s
@@ -233,8 +233,6 @@ https://a7d6af1c184e465db4f39316a5181c1f.mediatailor.us-east-1.amazonaws.com/v1/
 https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8
 #EXTINF:-1 tvg-chno=691 tvg-id="cheaters" tvg-name="Cheaters" group-title="reality",Cheaters
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-chno=694 tvg-id="deal-masters" tvg-name="Deal Masters" group-title="reality",Deal Masters
-https://amg00841-amg00841c8-rakuten-uk-2819.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-dealmastersrakuten-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-chno=695 tvg-id="hoarders" tvg-name="Hoarders" group-title="reality",Hoarders
 https://8f2546fe.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0hvYXJkZXJzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-chno=700 tvg-id="the-osbournes" tvg-name="The Osbournes" group-title="reality",The Osbournes
@@ -245,8 +243,10 @@ https://amg00627-amg00627c8-rakuten-uk-4801.playouts.now.amagi.tv/playlist/amg00
 https://deal-or-no-deal-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-deal-or-no-deal-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 tvg-chno=704 tvg-id="project-runway" tvg-name="Project Runway" group-title="reality",Project Runway
 https://amg02189-amg02189c1-rakuten-us-5453.playouts.now.amagi.tv/playlist/amg02189-spyglass-projectrunway-rakutenus/playlist.m3u8
-#EXTINF:-1 tvg-chno=709 tvg-id="infast" tvg-name="INFAST" group-title="reality",INFAST
-https://lifestyle-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lifestylehd/CDN/playlist.m3u8
+#EXTINF:-1 tvg-chno=706 tvg-id="a-new-life-in-the-sun" tvg-name="A New Life in The Sun" group-title="reality",A New Life in The Sun
+https://387ea9c7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0FOZXdMaWZlSW5UaGVTdW5fSExT/playlist.m3u8
+#EXTINF:-1 tvg-chno=720 tvg-id="timber-kings" tvg-name="Timber Kings" group-title="reality",Timber Kings
+https://amg00353-amg00353c41-rakuten-us-8851.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-timberkings-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-chno=754 tvg-id="true-lives" tvg-name="True Lives" group-title="crime_&_mystery",True Lives
 https://amg00654-itv-amg00654c7-rakuten-uk-1282.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-truelives-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-chno=755 tvg-id="real-crime-uk" tvg-name="Real Crime" group-title="crime_&_mystery",Real Crime
@@ -269,6 +269,8 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
 #EXTINF:-1 tvg-chno=777 tvg-id="i-survived" tvg-name="I Survived" group-title="crime_&_mystery",I Survived
 https://8e979536.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0lTdXJ2aXZlZF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-chno=785 tvg-id="crime-justice" tvg-name="Crime & Justice" group-title="crime_&_mystery",Crime & Justice
+https://32e34bca.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0NyaW1lSnVzdGljZVVLX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-chno=809 tvg-id="history-hunters" tvg-name="History Hunters" group-title="docs_&_factual",History Hunters
 https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-chno=812 tvg-id="history-hit" tvg-name="History Hit" group-title="docs_&_factual",History Hit
@@ -291,8 +293,10 @@ https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 https://aenetworks-worldwartv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-aenetworks-worldwartv-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-chno=837 tvg-id="curiosity-now-en" tvg-name="Curiosity Now" group-title="docs_&_factual",Curiosity Now
 https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-chno=846 tvg-id="mayday-air-disaster" tvg-name="Mayday: Air Disaster" group-title="docs_&_factual",Mayday: Air Disaster
+https://c5424e34.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX01heWRheUFpckRpc2FzdGVyX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-chno=877 tvg-id="euronews-live-eng" tvg-name="Euronews LIVE" group-title="news",Euronews LIVE
-https://euronews-live-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6503/bitok/eyJzdGlkIjoiZDNjMzRiOTktMjBlYS00YWJhLWI4ODktZDMxMmRlOTg0OTkxIiwibWt0IjoidWsiLCJjaCI6NjUwMywicHRmIjo1fQ%3D%3D/26031/euronews-en.m3u8
+https://euronews-live-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6503/bitok/eyJzdGlkIjoiNjI4ZjcxODktNmJmNy00YmMyLTk0YzYtMmMzOTI0NWQyOGNmIiwibWt0IjoidWsiLCJjaCI6NjUwMywicHRmIjo1fQ%3D%3D/26031/euronews-en.m3u8
 #EXTINF:-1 tvg-chno=880 tvg-id="ntd-tv" tvg-name="NTD TV" group-title="news",NTD TV
 https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-chno=881 tvg-id="the-reuters-60" tvg-name="The Reuters 60" group-title="news",The Reuters 60
@@ -304,7 +308,7 @@ https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-chno=888 tvg-id="bloomberg-tv-plus" tvg-name="Bloomberg TV+" group-title="news",Bloomberg TV+
 https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-chno=892 tvg-id="africanews-eng" tvg-name="Africanews" group-title="news",Africanews
-https://africanews-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiY2RlOTMxOGMtZDg0Zi00NWViLWE1NTctOGQ1N2M1Y2ExYzg2IiwibWt0IjoidWsiLCJjaCI6NjU3NiwicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
+https://africanews-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiYzMyYmJhMDUtZTNlZS00MTcyLWI4ZjQtNjRjOWU1NmVjZmVjIiwibWt0IjoidWsiLCJjaCI6NjU3NiwicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
 #EXTINF:-1 tvg-chno=893 tvg-id="cgtn" tvg-name="CGTN" group-title="news",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-chno=894 tvg-id="newsworld" tvg-name="NewsWorld" group-title="news",NewsWorld
@@ -315,5 +319,3 @@ https://lightning-gbnews-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning
 https://amg01082-cna-amg01082c1-rakuten-us-8337.playouts.now.amagi.tv/playlist/amg01082-cnafast-cnanews-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-chno=910 tvg-id="france-24-en" tvg-name="France 24 FAST English" group-title="news",France 24 FAST English
 https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-chno=911 tvg-id="the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a" tvg-name="The Guardian" group-title="news",The Guardian
-https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/master.m3u8
