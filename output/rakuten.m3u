@@ -44,7 +44,7 @@ https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-chno=144 tvg-id="mr-bean-live-action" tvg-name="Mr. Bean - Live Action" group-title="tv_shows",Mr. Bean - Live Action
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-chno=148 tvg-id="tv-eng" tvg-name="&TV" group-title="tv_shows",&TV
-https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0165/playlist.m3u8
+https://84a85b7c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0FuZFRWX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-chno=150 tvg-id="the-bold-and-the-beautiful" tvg-name="The Bold and The Beautiful" group-title="tv_shows",The Bold and The Beautiful
 https://999dae3a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZUJvbGRhbmRUaGVCZWF1dGlmdWxfSExT/playlist.m3u8
 #EXTINF:-1 tvg-chno=153 tvg-id="kim-s-convenience" tvg-name="Kim's Convenience" group-title="tv_shows",Kim's Convenience
@@ -183,17 +183,17 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
 #EXTINF:-1 tvg-chno=544 tvg-id="qello-concerts-by-stingray" tvg-name="Qello Concerts by Stingray" group-title="music",Qello Concerts by Stingray
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-chno=550 tvg-id="now-70s" tvg-name="NOW 70s" group-title="music",NOW 70s
+#EXTINF:-1 tvg-chno=550 tvg-id="that-s-70s" tvg-name="That's 70s" group-title="music",That's 70s
 https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
-#EXTINF:-1 tvg-chno=551 tvg-id="now-80s" tvg-name="NOW 80s" group-title="music",NOW 80s
+#EXTINF:-1 tvg-chno=551 tvg-id="now-80s" tvg-name="That's 80s" group-title="music",That's 80s
 https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
-#EXTINF:-1 tvg-chno=552 tvg-id="now-rock" tvg-name="NOW Rock" group-title="music",NOW Rock
+#EXTINF:-1 tvg-chno=552 tvg-id="that-s-rock" tvg-name="That's ROCK" group-title="music",That's ROCK
 https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 tvg-chno=556 tvg-id="vevo-hip-hop-r-b-uk" tvg-name="Vevo Hip-Hop & R&B" group-title="music",Vevo Hip-Hop & R&B
 https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrnbuk-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-chno=557 tvg-id="vevo-pop-uk" tvg-name="Vevo Pop" group-title="music",Vevo Pop
 https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopuk-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-chno=559 tvg-id="now-90s00s" tvg-name="NOW 90s00s" group-title="music",NOW 90s00s
+#EXTINF:-1 tvg-chno=559 tvg-id="that-s-90s00s" tvg-name="That's 90s00s" group-title="music",That's 90s00s
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-chno=604 tvg-id="family-rakuten-tv" tvg-name="Family - Rakuten TV" group-title="kids",Family - Rakuten TV
 https://family-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
@@ -318,7 +318,7 @@ https://aftershock-msa-mco-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b7
 #EXTINF:-1 tvg-chno=846 tvg-id="mayday-air-disaster" tvg-name="Mayday: Air Disaster" group-title="docs_&_factual",Mayday: Air Disaster
 https://c5424e34.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX01heWRheUFpckRpc2FzdGVyX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-chno=877 tvg-id="euronews-live-eng" tvg-name="Euronews LIVE" group-title="news",Euronews LIVE
-https://euronews-live-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6503/bitok/eyJzdGlkIjoiODA5OThkNGQtMmU5OS00YTg1LTljN2QtZGEwODVkNGNlODhjIiwibWt0IjoidWsiLCJjaCI6NjUwMywicHRmIjo1fQ%3D%3D/26031/euronews-en.m3u8
+https://euronews-live-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6503/bitok/eyJzdGlkIjoiZjZhNmQ4ZjMtMGNjYy00OThiLTgwMTYtN2EwZWQ4NTgwYzhlIiwibWt0IjoidWsiLCJjaCI6NjUwMywicHRmIjo1fQ%3D%3D/26031/euronews-en.m3u8
 #EXTINF:-1 tvg-chno=880 tvg-id="ntd-tv" tvg-name="NTD News" group-title="news",NTD News
 https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-chno=881 tvg-id="the-reuters-60" tvg-name="The Reuters 60" group-title="news",The Reuters 60
@@ -328,7 +328,7 @@ https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-chno=888 tvg-id="bloomberg-tv-plus" tvg-name="Bloomberg TV+" group-title="news",Bloomberg TV+
 https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-chno=892 tvg-id="africanews-eng" tvg-name="Africanews" group-title="news",Africanews
-https://africanews-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiN2MxY2RjMjMtYjEzYS00ODUwLWI3ODgtNWE2YWFmZWU4MTMwIiwibWt0IjoidWsiLCJjaCI6NjU3NiwicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
+https://africanews-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiMjJlYmI3YzMtMjZmYy00OTFlLWJjOTgtNTY2NjU0YjA5MTAxIiwibWt0IjoidWsiLCJjaCI6NjU3NiwicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
 #EXTINF:-1 tvg-chno=893 tvg-id="cgtn" tvg-name="CGTN" group-title="news",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-chno=894 tvg-id="newsworld" tvg-name="NewsWorld" group-title="news",NewsWorld
